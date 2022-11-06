@@ -20,6 +20,6 @@
 
 Simply refer to the instructions given by the console and set input data to get outputs.
 
-![screenshot](assets/1.png)
-![screenshot](assets/2.png)
-![screenshot](assets/3.png)
+![screenshot](assets/1.png) <br>
+![screenshot](assets/2.png) <br>
+![screenshot](assets/3.png) <br>
